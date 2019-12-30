@@ -1,0 +1,5 @@
+console.log('console.log')
+console.warn('console.warn')
+console.error('console.error')
+console.dir('console.dir')
+console.info('console.info')
