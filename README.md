@@ -146,5 +146,5 @@ rimraf -rf ./node\_modules/.cache
 
 # 참고사이트
 
-[https://babeljs.io/docs/en/babel-plugin-transform-remove-console](https://babeljs.io/docs/en/babel-plugin-transform-remove-console)
-[https://cli.vuejs.org/guide/cli-service.html#caching-and-parallelization](https://cli.vuejs.org/guide/cli-service.html#caching-and-parallelization)
+- [https://babeljs.io/docs/en/babel-plugin-transform-remove-console](https://babeljs.io/docs/en/babel-plugin-transform-remove-console)
+- [https://cli.vuejs.org/guide/cli-service.html#caching-and-parallelization](https://cli.vuejs.org/guide/cli-service.html#caching-and-parallelization)
