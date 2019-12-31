@@ -10,13 +10,12 @@ console.log를 반드시 지워야되는 건 아니지만 남겨두게 된다면
 
 ## 소개
 
-[babel-plugin-transform-remove-console](https://www.npmjs.com/package/babel-plugin-transform-remove-console)이라는 [babel](https://babeljs.io/docs/en/next/babel-cli.html) 플러그인을 사용할건데요. [webpack](https://webpack.js.org/)으로 빌드를 돌릴 때 소스내에 있는 모든 console.log 자동으로 지워주는 멋진 플러그인입니다. webpack을 사용하지 않는 프로젝트에서도 babel만 설치하여 사용할 수 있습니다.
+[babel-plugin-transform-remove-console](https://www.npmjs.com/package/babel-plugin-transform-remove-console)이라는 [babel](https://babeljs.io/docs/en/next/babel-cli.html) 플러그인을 사용할건데요. [webpack](https://webpack.js.org/)과 연동만 해주면 자동으로 모든 console.log를 지워주는 멋진 플러그인입니다. webpack을 사용하지 않는 프로젝트에서도 babel만 설치하여 사용할 수 있습니다.
 
 ## 준비물
 
 - NodeJs 최신버전(LTS) : [https://nodejs.org/](https://nodejs.org/)
 - 삽질할 시간 (필수입니다 ^^)
-
 
 ## 방법
 
