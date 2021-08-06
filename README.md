@@ -122,7 +122,7 @@ npx webpack
 
 위 소스는 전부 github에 올려 놓았습니다. 빠르게 연습해보고 싶으신 분들은 git을 pull 받아서 `dist/main.js`만 지우시고 `npm i && npx webpack`을 실행하시면 됩니다.
 
-- https://github.com/divlook-log/clear-log-in-one-shot
+- https://github.com/divlook-fancy/clear-log-in-one-shot
 
 ## 빌드를 했는데 console이 지워지지 않았을 때
 
